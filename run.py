@@ -1,13 +1,11 @@
 from Dynasty_Sandwich.api_sleeper_team_info import sleeper_calculate
 from Dynasty_Sandwich.keeptradecut import update_keeptradecut
-from Dynasty_Sandwich.visualize_excel import plot_history
 import time
 import ctypes  # An included library with Python install.   
 from datetime import datetime
 
-
-
 def log_status(location):
+    """Function logs the process of each run into the file Dynasty_Sandwich/Journal_tasks.txt. Such that if a failure occurs then it will be logged and we can see where the error occurred."""
     with open('Dynasty_Sandwich/Journal_tasks.txt', 'a') as f:
         if location==0:
             date = datetime.now()
@@ -23,15 +21,11 @@ def log_status(location):
             f.write('| Job has ended |')
 
 def main():
-    #time.sleep(10)
     update_keeptradecut()
     log_status(1)
     sleeper_calculate(update = True)
     log_status(2)
 
-    #plot_history()
-    #log_status(3)
-    
 if __name__ == '__main__':
     log_status(0)
     main()

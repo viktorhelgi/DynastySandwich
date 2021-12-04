@@ -24,3 +24,9 @@ Gögnin notuð til þess að búa til myndirnar hér að ofan eru staðsettar í
 Önnur gögn sem hægt er að skoða eru í sömu möppu. 
 Mæli með að kíkja á pakkanna ``nfl_data_py`` og ``sleeper-api-wrapper``.
 
+
+Hægt er að nota fallið ``manual_run.py`` til þess að plota breytingu á leikmönnunum fyrir eitt lið.
+
+Hægt er að nota ``conda env create --name DynastySandwich --file environment.yml`` til þess að downloada pökkunum til að keyra forritin.
+
+
