@@ -1,0 +1,11 @@
+~/
+AA_Other/
+*~
+*.swo
+*.exe
+/*.log
+/test*.*
+!test_trades.py
+**/backup
+**/__pycache__
+nfl_data_py.xlsx

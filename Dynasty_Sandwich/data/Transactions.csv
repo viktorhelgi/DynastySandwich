@@ -1,0 +1,310 @@
+,user,add/drop,player,date,transaction_id,transaction_type,trader
+0,jonhugi97,add,cedrick wilson,2021-09-15,0,waiver,None
+1,jonhugi97,drop,isaiah hodgins,2021-09-15,0,waiver,None
+2,nonni123,add,kj osborn,2021-09-15,1,waiver,None
+3,nonni123,drop,john hightower,2021-09-15,1,waiver,None
+4,nonni123,add,trenton cannon,2021-09-09,2,free_agent,None
+5,nonni123,drop,mekhi sargent,2021-09-09,2,free_agent,None
+6,ebb,add,donald parham,2021-09-09,3,free_agent,None
+7,ebb,drop,will dissly,2021-09-09,3,free_agent,None
+8,ebb,add,will dissly,2021-09-09,4,waiver,None
+9,2g1c,drop,darren fells,2021-09-07,5,free_agent,None
+10,2g1c,add,randall cobb,2021-09-09,6,waiver,None
+11,2g1c,add,devonta freeman,2021-09-09,7,waiver,None
+12,2g1c,add,deonte harris,2021-09-09,8,waiver,None
+13,2g1c,drop,danny amendola,2021-09-07,9,free_agent,None
+14,2g1c,drop,kenny stills,2021-09-07,10,free_agent,None
+15,nonni123,add,mekhi sargent,2021-09-09,11,waiver,None
+16,nonni123,add,cordarrelle patterson,2021-09-09,12,waiver,None
+17,nonni123,drop,justice hill,2021-09-09,12,waiver,None
+18,arnarleo,add,tyler kroft,2021-09-07,13,waiver,None
+19,arnarleo,drop,keke coutee,2021-09-07,13,waiver,None
+20,arnarleo,add,trinity benson,2021-09-07,14,waiver,None
+21,arnarleo,drop,qadree ollison,2021-09-07,14,waiver,None
+22,arnarleo,add,tyler conklin,2021-09-05,15,waiver,None
+23,viktorhelgi,add,hunter long,2021-09-05,16,waiver,None
+24,viktorhelgi,drop,kawaan baker,2021-09-05,16,waiver,None
+25,viktorhelgi,add,jerick mckinnon,2021-09-02,17,waiver,None
+26,viktorhelgi,drop,tyron johnson,2021-09-02,17,waiver,None
+27,viktorhelgi,add,chris evans,2021-09-02,18,waiver,None
+28,viktorhelgi,add,jerick mckinnon,2021-09-02,19,waiver,None
+29,viktorhelgi,add,randall cobb,2021-09-02,20,waiver,None
+30,viktorhelgi,add,hunter long,2021-09-02,21,waiver,None
+31,viktorhelgi,drop,lynn bowden,2021-09-02,22,free_agent,None
+32,viktorhelgi,add,hunter long,2021-09-02,23,waiver,None
+33,viktorhelgi,drop,tyron johnson,2021-09-02,23,waiver,None
+34,vikkisibbi,add,tyson williams,2021-08-31,24,waiver,None
+35,thorsteinnah,add,tyson williams,2021-08-31,25,waiver,None
+36,thorsteinnah,drop,josh gordon,2021-08-31,25,waiver,None
+37,birgirms,add,justice hill,2021-08-31,26,waiver,None
+38,birgirms,drop,alshon jeffery,2021-08-31,26,waiver,None
+39,nonni123,add,tyson williams,2021-08-31,27,waiver,None
+40,nonni123,add,justice hill,2021-08-31,28,waiver,None
+41,thorsteinnah,add,jj taylor,2021-08-29,29,waiver,None
+42,thorsteinnah,drop,bryce love,2021-08-29,29,waiver,None
+43,viktorhelgi,add,jerick mckinnon,2021-08-29,30,waiver,None
+44,viktorhelgi,drop,devin funchess,2021-08-29,30,waiver,None
+45,ebb,drop,jerick mckinnon,2021-08-26,31,free_agent,None
+46,viktorhelgi,add,juwan johnson,2021-08-29,32,waiver,None
+47,viktorhelgi,drop,devin funchess,2021-08-29,32,waiver,None
+48,viktorhelgi,add,hunter long,2021-08-26,33,waiver,None
+49,viktorhelgi,add,jaelon darden,2021-08-26,34,waiver,None
+50,viktorhelgi,add,shi smith,2021-08-26,35,waiver,None
+51,viktorhelgi,add,juwan johnson,2021-08-26,36,waiver,None
+52,viktorhelgi,add,tony jones,2021-08-26,37,waiver,None
+53,arnarleo,add,qadree ollison,2021-08-19,38,waiver,None
+54,arnarleo,drop,josh imatorbhebhe,2021-08-17,39,free_agent,None
+55,thorsteinnah,add,derrius guice,2021-08-17,40,waiver,None
+56,thorsteinnah,drop,john ross,2021-08-17,40,waiver,None
+57,viktorhelgi,add,devin funchess,2021-08-15,41,waiver,None
+58,viktorhelgi,drop,david moore,2021-08-15,41,waiver,None
+59,jonhugi97,add,quez watkins,2021-08-12,42,waiver,None
+60,jonhugi97,drop,golden tate,2021-08-12,42,waiver,None
+61,vikkisibbi,add,jake funk,2021-08-05,43,waiver,None
+62,ebb,add,denzel mims,2021-08-03,44,trade,vikkisibbi
+63,ebb,add,michael pittman,2021-08-03,44,trade,vikkisibbi
+64,vikkisibbi,add,jk dobbins,2021-08-03,44,trade,ebb
+65,vikkisibbi,drop,denzel mims,2021-08-03,44,trade,ebb
+66,vikkisibbi,drop,michael pittman,2021-08-03,44,trade,ebb
+67,ebb,drop,jk dobbins,2021-08-03,44,trade,vikkisibbi
+68,ebb,add,2022 - 1 round via vikkisibbi,2021-08-03,44,trade,vikkisibbi
+69,vikkisibbi,drop,2022 - 1 round via vikkisibbi,2021-08-03,44,trade,vikkisibbi
+70,ebb,add,2022 - 1 round via arnarleo,2021-08-03,44,trade,vikkisibbi
+71,vikkisibbi,drop,2022 - 1 round via arnarleo,2021-08-03,44,trade,vikkisibbi
+72,viktorhelgi,add,jake funk,2021-08-01,45,waiver,None
+73,viktorhelgi,add,kawaan baker,2021-08-01,46,waiver,None
+74,viktorhelgi,add,jaelon darden,2021-08-01,47,waiver,None
+75,thorsteinns,add,xavier jones,2021-07-29,48,waiver,None
+76,thorsteinns,drop,drew brees,2021-07-29,48,waiver,None
+77,arnarleo,add,josh imatorbhebhe,2021-07-15,49,waiver,None
+78,arnarleo,drop,tamorrion terry,2021-07-15,49,waiver,None
+79,vikkisibbi,add,aj brown,2021-07-07,50,trade,birgirms
+80,birgirms,add,christian mccaffrey,2021-07-07,50,trade,vikkisibbi
+81,birgirms,drop,aj brown,2021-07-07,50,trade,vikkisibbi
+82,vikkisibbi,drop,christian mccaffrey,2021-07-07,50,trade,birgirms
+83,vikkisibbi,add,2023 - 1 round via birgirms,2021-07-07,50,trade,birgirms
+84,birgirms,drop,2023 - 1 round via birgirms,2021-07-07,50,trade,birgirms
+85,viktorhelgi,add,jacob harris,2021-06-24,51,waiver,None
+86,viktorhelgi,drop,devin asiasi,2021-06-24,51,waiver,None
+87,thorsteinnah,add,jacob harris,2021-06-24,52,waiver,None
+88,vikkisibbi,add,anthony firkser,2021-06-24,53,waiver,None
+89,thorsteinnah,add,noah gray,2021-06-24,54,waiver,None
+90,vikkisibbi,add,austin watkins,2021-06-24,55,waiver,None
+91,thorsteinns,drop,ryquell armstead,2021-06-14,56,free_agent,None
+92,agustlogi,drop,frank gore,2021-06-14,57,free_agent,None
+93,jonhugi97,drop,peyton barber,2021-06-12,58,free_agent,None
+94,jonhugi97,drop,teddy bridgewater,2021-06-12,59,free_agent,None
+95,jonhugi97,drop,dez bryant,2021-06-12,60,free_agent,None
+96,jonhugi97,drop,ross dwelley,2021-06-12,61,free_agent,None
+97,ebb,drop,albert okwuegbunam,2021-06-09,62,free_agent,None
+98,ebb,drop,justice hill,2021-06-09,63,free_agent,None
+99,viktorhelgi,drop,quez watkins,2021-06-08,64,free_agent,None
+100,viktorhelgi,drop,matt breida,2021-06-08,65,free_agent,None
+101,viktorhelgi,drop,julian edelman,2021-06-08,66,free_agent,None
+102,viktorhelgi,drop,andy isabella,2021-06-08,67,free_agent,None
+103,viktorhelgi,drop,eno benjamin,2021-06-08,68,free_agent,None
+104,thorsteinnah,drop,chris thompson,2021-06-08,69,free_agent,None
+105,thorsteinnah,drop,mitchell trubisky,2021-06-08,70,free_agent,None
+106,thorsteinnah,drop,josh oliver,2021-06-08,71,free_agent,None
+107,thorsteinnah,drop,benny snell,2021-06-08,72,free_agent,None
+108,arnarleo,drop,desean jackson,2021-06-08,73,free_agent,None
+109,arnarleo,drop,ian thomas,2021-06-08,74,free_agent,None
+110,arnarleo,drop,trey burton,2021-06-08,75,free_agent,None
+111,arnarleo,drop,marvin hall,2021-06-08,76,free_agent,None
+112,arnarleo,drop,josh adams,2021-06-08,77,free_agent,None
+113,ebb,drop,randall cobb,2021-06-08,78,free_agent,None
+114,tindurs,drop,jimmy graham,2021-06-08,79,free_agent,None
+115,birgirms,drop,auden tate,2021-06-08,80,free_agent,None
+116,tindurs,drop,steven sims,2021-06-08,81,free_agent,None
+117,tindurs,drop,devonta freeman,2021-06-08,82,free_agent,None
+118,birgirms,drop,dede westbrook,2021-06-08,83,free_agent,None
+119,birgirms,drop,dernest johnson,2021-06-08,84,free_agent,None
+120,tindurs,drop,isaiah ford,2021-06-08,85,free_agent,None
+121,nonni123,drop,adrian peterson,2021-06-08,86,free_agent,None
+122,nonni123,drop,adam humphries,2021-06-08,87,free_agent,None
+123,nonni123,drop,royce freeman,2021-06-08,88,free_agent,None
+124,nonni123,drop,equanimeous st brown,2021-06-08,89,free_agent,None
+125,jonhugi97,add,2022 - 4 round via vikkisibbi,2021-06-04,90,trade,birgirms
+126,vikkisibbi,drop,2022 - 4 round via vikkisibbi,2021-06-04,90,trade,birgirms
+127,vikkisibbi,add,2021 - 3 round via jonhugi97,2021-06-04,90,trade,birgirms
+128,jonhugi97,drop,2021 - 3 round via jonhugi97,2021-06-04,90,trade,birgirms
+129,jonhugi97,add,2021 - 3 round via nonni123,2021-06-04,90,trade,birgirms
+130,vikkisibbi,drop,2021 - 3 round via nonni123,2021-06-04,90,trade,birgirms
+131,arnarleo,add,corey davis,2021-06-04,91,trade,vikkisibbi
+132,arnarleo,add,odell beckham,2021-06-04,91,trade,vikkisibbi
+133,vikkisibbi,drop,corey davis,2021-06-04,91,trade,arnarleo
+134,vikkisibbi,drop,odell beckham,2021-06-04,91,trade,arnarleo
+135,vikkisibbi,add,2021 - 3 round via nonni123,2021-06-04,91,trade,arnarleo
+136,arnarleo,drop,2021 - 3 round via nonni123,2021-06-04,91,trade,arnarleo
+137,vikkisibbi,add,2023 - 1 round via arnarleo,2021-06-04,91,trade,arnarleo
+138,arnarleo,drop,2023 - 1 round via arnarleo,2021-06-04,91,trade,arnarleo
+139,arnarleo,add,zack moss,2021-06-03,92,trade,viktorhelgi
+140,viktorhelgi,add,damien harris,2021-06-03,92,trade,arnarleo
+141,viktorhelgi,add,james washington,2021-06-03,92,trade,arnarleo
+142,viktorhelgi,drop,zack moss,2021-06-03,92,trade,arnarleo
+143,arnarleo,drop,damien harris,2021-06-03,92,trade,viktorhelgi
+144,arnarleo,drop,james washington,2021-06-03,92,trade,viktorhelgi
+145,arnarleo,add,2021 - 3 round via nonni123,2021-06-03,92,trade,viktorhelgi
+146,viktorhelgi,drop,2021 - 3 round via nonni123,2021-06-03,92,trade,viktorhelgi
+147,tindurs,drop,gardner minshew,2021-06-02,93,free_agent,None
+148,vikkisibbi,add,nyheim hines,2021-06-01,94,trade,thorsteinnah
+149,thorsteinnah,drop,nyheim hines,2021-06-01,94,trade,vikkisibbi
+150,thorsteinnah,add,2023 - 2 round via vikkisibbi,2021-06-01,94,trade,vikkisibbi
+151,vikkisibbi,drop,2023 - 2 round via vikkisibbi,2021-06-01,94,trade,vikkisibbi
+152,ebb,add,chris carson,2021-05-15,95,trade,tindurs
+153,tindurs,drop,chris carson,2021-05-15,95,trade,ebb
+154,tindurs,add,2021 - 1 round via vikkisibbi,2021-05-15,95,trade,ebb
+155,ebb,drop,2021 - 1 round via vikkisibbi,2021-05-15,95,trade,ebb
+156,thorsteinns,add,tyler johnson,2021-03-28,96,trade,arnarleo
+157,arnarleo,add,hunter renfrow,2021-03-28,96,trade,thorsteinns
+158,thorsteinns,add,nkeal harry,2021-03-28,96,trade,arnarleo
+159,arnarleo,add,kenyan drake,2021-03-28,96,trade,thorsteinns
+160,arnarleo,add,mike davis,2021-03-28,96,trade,thorsteinns
+161,arnarleo,drop,tyler johnson,2021-03-28,96,trade,thorsteinns
+162,thorsteinns,drop,hunter renfrow,2021-03-28,96,trade,arnarleo
+163,arnarleo,drop,nkeal harry,2021-03-28,96,trade,thorsteinns
+164,thorsteinns,drop,kenyan drake,2021-03-28,96,trade,arnarleo
+165,thorsteinns,drop,mike davis,2021-03-28,96,trade,arnarleo
+166,arnarleo,add,2021 - 4 round via thorsteinns,2021-03-28,96,trade,arnarleo
+167,thorsteinns,drop,2021 - 4 round via thorsteinns,2021-03-28,96,trade,arnarleo
+168,thorsteinns,add,2021 - 3 round via viktorhelgi,2021-03-28,96,trade,arnarleo
+169,arnarleo,drop,2021 - 3 round via viktorhelgi,2021-03-28,96,trade,arnarleo
+170,thorsteinns,add,cam newton,2021-03-23,97,trade,viktorhelgi
+171,thorsteinns,add,gabriel davis,2021-03-23,97,trade,viktorhelgi
+172,viktorhelgi,add,quintez cephus,2021-03-23,97,trade,thorsteinns
+173,viktorhelgi,drop,cam newton,2021-03-23,97,trade,thorsteinns
+174,viktorhelgi,drop,gabriel davis,2021-03-23,97,trade,thorsteinns
+175,thorsteinns,drop,quintez cephus,2021-03-23,97,trade,viktorhelgi
+176,viktorhelgi,add,2021 - 2 round via thorsteinns,2021-03-23,97,trade,viktorhelgi
+177,thorsteinns,drop,2021 - 2 round via thorsteinns,2021-03-23,97,trade,viktorhelgi
+178,thorsteinns,add,2022 - 2 round via thorsteinns,2021-03-23,97,trade,viktorhelgi
+179,viktorhelgi,drop,2022 - 2 round via thorsteinns,2021-03-23,97,trade,viktorhelgi
+180,viktorhelgi,add,2021 - 3 round via nonni123,2021-03-23,97,trade,viktorhelgi
+181,thorsteinns,drop,2021 - 3 round via nonni123,2021-03-23,97,trade,viktorhelgi
+182,viktorhelgi,add,cam newton,2021-03-23,98,trade,thorsteinns
+183,viktorhelgi,add,gabriel davis,2021-03-23,98,trade,thorsteinns
+184,thorsteinns,add,quintez cephus,2021-03-23,98,trade,viktorhelgi
+185,thorsteinns,drop,cam newton,2021-03-23,98,trade,viktorhelgi
+186,thorsteinns,drop,gabriel davis,2021-03-23,98,trade,viktorhelgi
+187,viktorhelgi,drop,quintez cephus,2021-03-23,98,trade,thorsteinns
+188,thorsteinns,add,2021 - 2 round via thorsteinns,2021-03-23,98,trade,thorsteinns
+189,viktorhelgi,drop,2021 - 2 round via thorsteinns,2021-03-23,98,trade,thorsteinns
+190,viktorhelgi,add,2022 - 2 round via thorsteinns,2021-03-23,98,trade,thorsteinns
+191,thorsteinns,drop,2022 - 2 round via thorsteinns,2021-03-23,98,trade,thorsteinns
+192,thorsteinns,add,2021 - 3 round via nonni123,2021-03-23,98,trade,thorsteinns
+193,viktorhelgi,drop,2021 - 3 round via nonni123,2021-03-23,98,trade,thorsteinns
+194,agustlogi,add,leveon bell,2021-03-19,99,trade,vikkisibbi
+195,vikkisibbi,add,marvin jones,2021-03-19,99,trade,agustlogi
+196,vikkisibbi,drop,leveon bell,2021-03-19,99,trade,agustlogi
+197,agustlogi,drop,marvin jones,2021-03-19,99,trade,vikkisibbi
+198,tindurs,add,darius slayton,2021-03-18,100,trade,nonni123
+199,nonni123,drop,darius slayton,2021-03-18,100,trade,tindurs
+200,tindurs,add,2021 - 2 round via nonni123,2021-03-18,100,trade,tindurs
+201,nonni123,drop,2021 - 2 round via nonni123,2021-03-18,100,trade,tindurs
+202,nonni123,add,2021 - 1 round via tindurs,2021-03-18,100,trade,tindurs
+203,tindurs,drop,2021 - 1 round via tindurs,2021-03-18,100,trade,tindurs
+204,arnarleo,add,braxton berrios,2021-09-22,101,waiver,None
+205,arnarleo,drop,dazz newsome,2021-09-22,102,free_agent,None
+206,agustlogi,add,tyson williams,2021-09-25,103,trade,vikkisibbi
+207,agustlogi,add,diontae johnson,2021-09-25,103,trade,vikkisibbi
+208,vikkisibbi,add,saquon barkley,2021-09-25,103,trade,agustlogi
+209,agustlogi,add,chris godwin,2021-09-25,103,trade,vikkisibbi
+210,vikkisibbi,drop,tyson williams,2021-09-25,103,trade,agustlogi
+211,vikkisibbi,drop,diontae johnson,2021-09-25,103,trade,agustlogi
+212,agustlogi,drop,saquon barkley,2021-09-25,103,trade,vikkisibbi
+213,vikkisibbi,drop,chris godwin,2021-09-25,103,trade,agustlogi
+214,viktorhelgi,add,freddie swain,2021-09-22,104,waiver,None
+215,viktorhelgi,drop,jerick mckinnon,2021-09-22,104,waiver,None
+216,viktorhelgi,add,taylor heinicke,2021-09-22,105,waiver,None
+217,viktorhelgi,drop,anthony mcfarland,2021-09-18,106,free_agent,None
+218,arnarleo,add,nick westbrook-ikhine,2021-09-29,107,waiver,None
+219,thorsteinnah,add,tommy tremble,2021-09-29,108,waiver,None
+220,thorsteinnah,drop,todd gurley,2021-09-29,108,waiver,None
+221,ebb,add,dak prescott,2021-09-26,109,trade,thorsteinnah
+222,thorsteinnah,add,ben roethlisberger,2021-09-26,109,trade,ebb
+223,thorsteinnah,drop,dak prescott,2021-09-26,109,trade,ebb
+224,ebb,drop,ben roethlisberger,2021-09-26,109,trade,thorsteinnah
+225,thorsteinnah,add,2022 - 1 round via ebb,2021-09-26,109,trade,thorsteinnah
+226,ebb,drop,2022 - 1 round via ebb,2021-09-26,109,trade,thorsteinnah
+227,thorsteinnah,add,2022 - 3 round via ebb,2021-09-26,109,trade,thorsteinnah
+228,ebb,drop,2022 - 3 round via ebb,2021-09-26,109,trade,thorsteinnah
+229,ebb,add,2022 - 4 round via thorsteinnah,2021-09-26,109,trade,thorsteinnah
+230,thorsteinnah,drop,2022 - 4 round via thorsteinnah,2021-09-26,109,trade,thorsteinnah
+231,vikkisibbi,add,maxx williams,2021-09-25,110,free_agent,None
+232,vikkisibbi,add,royce freeman,2021-09-29,111,waiver,None
+233,agustlogi,drop,willie snead,2021-09-25,112,free_agent,None
+234,agustlogi,drop,tyler eifert,2021-09-25,113,free_agent,None
+235,nonni123,add,damien harris,2021-09-25,114,trade,viktorhelgi
+236,viktorhelgi,add,dj moore,2021-09-25,114,trade,nonni123
+237,viktorhelgi,drop,damien harris,2021-09-25,114,trade,nonni123
+238,nonni123,drop,dj moore,2021-09-25,114,trade,viktorhelgi
+239,nonni123,add,2022 - 1 round via viktorhelgi,2021-09-25,114,trade,viktorhelgi
+240,viktorhelgi,drop,2022 - 1 round via viktorhelgi,2021-09-25,114,trade,viktorhelgi
+241,ebb,add,royce freeman,2021-09-29,115,waiver,None
+242,tindurs,add,jacques patrick,2021-09-22,116,free_agent,None
+243,arnarleo,add,samaje perine,2021-10-06,117,waiver,None
+244,arnarleo,drop,trinity benson,2021-10-06,117,waiver,None
+245,arnarleo,add,alex collins,2021-10-06,118,waiver,None
+246,arnarleo,drop,braxton berrios,2021-10-06,118,waiver,None
+247,viktorhelgi,add,jeremy mcnichols,2021-10-06,119,waiver,None
+248,viktorhelgi,drop,peyton barber,2021-10-06,119,waiver,None
+249,viktorhelgi,add,samaje perine,2021-10-06,120,waiver,None
+250,viktorhelgi,add,alex collins,2021-10-06,121,waiver,None
+251,viktorhelgi,drop,phillip lindsay,2021-10-04,122,free_agent,None
+252,nonni123,add,van jefferson,2021-10-03,123,trade,thorsteinns
+253,thorsteinns,add,cordarrelle patterson,2021-10-03,123,trade,nonni123
+254,thorsteinns,drop,van jefferson,2021-10-03,123,trade,nonni123
+255,nonni123,drop,cordarrelle patterson,2021-10-03,123,trade,thorsteinns
+256,viktorhelgi,add,albert okwuegbunam,2021-10-01,124,free_agent,None
+257,viktorhelgi,drop,freddie swain,2021-10-01,124,free_agent,None
+258,ebb,add,taylor heinicke,2021-10-01,125,waiver,None
+259,ebb,drop,travis fulgham,2021-10-01,125,waiver,None
+260,viktorhelgi,add,peyton barber,2021-09-30,126,free_agent,None
+261,viktorhelgi,drop,taylor heinicke,2021-09-30,126,free_agent,None
+262,ebb,add,kalif raymond,2021-09-29,127,free_agent,None
+263,jonhugi97,add,jerick mckinnon,2021-10-13,128,waiver,None
+264,jonhugi97,drop,boston scott,2021-10-13,128,waiver,None
+265,viktorhelgi,add,gary brightwell,2021-10-13,129,waiver,None
+266,viktorhelgi,drop,hunter long,2021-10-13,129,waiver,None
+267,viktorhelgi,add,jerick mckinnon,2021-10-13,130,waiver,None
+268,viktorhelgi,drop,albert okwuegbunam,2021-10-13,130,waiver,None
+269,nonni123,add,jerick mckinnon,2021-10-13,131,waiver,None
+270,nonni123,drop,trenton cannon,2021-10-13,131,waiver,None
+271,vikkisibbi,add,chris moore,2021-10-13,132,waiver,None
+272,vikkisibbi,drop,jake funk,2021-10-13,132,waiver,None
+273,2g1c,add,geno smith,2021-10-13,133,waiver,None
+274,thorsteinns,add,will dissly,2021-10-07,134,free_agent,None
+275,thorsteinnah,add,john ross,2021-10-07,135,free_agent,None
+276,thorsteinnah,drop,christopher herndon,2021-10-07,135,free_agent,None
+277,vikkisibbi,add,brandon bolden,2021-10-06,136,free_agent,None
+278,vikkisibbi,drop,royce freeman,2021-10-06,136,free_agent,None
+279,jonhugi97,add,freddie swain,2021-10-06,137,free_agent,None
+280,jonhugi97,add,brandon zylstra,2021-10-06,138,free_agent,None
+281,thorsteinnah,add,jamal agnew,2021-10-20,139,waiver,None
+282,arnarleo,add,dernest johnson,2021-10-20,140,waiver,None
+283,arnarleo,drop,nick westbrook-ikhine,2021-10-20,140,waiver,None
+284,ebb,add,jamal agnew,2021-10-20,141,waiver,None
+285,ebb,drop,taylor heinicke,2021-10-20,141,waiver,None
+286,arnarleo,drop,trinity benson,2021-10-19,142,free_agent,None
+287,vikkisibbi,add,dernest johnson,2021-10-20,143,waiver,None
+288,vikkisibbi,drop,brandon bolden,2021-10-20,143,waiver,None
+289,nonni123,add,dernest johnson,2021-10-20,144,waiver,None
+290,nonni123,drop,justin jackson,2021-10-20,144,waiver,None
+291,agustlogi,add,cameron brate,2021-10-20,145,waiver,None
+292,agustlogi,drop,greg ward,2021-10-20,145,waiver,None
+293,nonni123,add,tyree jackson,2021-10-20,146,waiver,None
+294,nonni123,drop,chris conley,2021-10-20,146,waiver,None
+295,ebb,drop,breshad perriman,2021-10-15,147,free_agent,None
+296,viktorhelgi,add,aj dillon,2021-10-15,148,trade,arnarleo
+297,arnarleo,add,leonard fournette,2021-10-15,148,trade,viktorhelgi
+298,arnarleo,drop,aj dillon,2021-10-15,148,trade,viktorhelgi
+299,viktorhelgi,drop,leonard fournette,2021-10-15,148,trade,arnarleo
+300,arnarleo,add,2022 - 3 round via viktorhelgi,2021-10-15,148,trade,arnarleo
+301,viktorhelgi,drop,2022 - 3 round via viktorhelgi,2021-10-15,148,trade,arnarleo
+302,tindurs,add,davis mills,2021-10-14,149,free_agent,None
+303,nonni123,add,phillip lindsay,2021-10-14,150,free_agent,None
+304,nonni123,drop,trenton cannon,2021-10-14,150,free_agent,None
+305,arnarleo,add,teddy bridgewater,2021-10-13,151,free_agent,None
+306,arnarleo,drop,tyler kroft,2021-10-13,151,free_agent,None
+307,viktorhelgi,add,ricky seals-jones,2021-10-13,152,free_agent,None
+308,viktorhelgi,drop,albert okwuegbunam,2021-10-13,152,free_agent,None

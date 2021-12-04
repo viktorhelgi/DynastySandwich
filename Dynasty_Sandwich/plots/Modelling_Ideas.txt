@@ -1,0 +1,9 @@
+A great idea, would be to analyze the relationship between risk and reward.
+
+And also, age of players relative to their position and the probability that they will start their decline.
+
+We can model these ideas independently. Then afterwards, we can add them to the main model.
+
+- probability of having a worse season,
+- probability of having unreliable variance of good vs bad games
+- probability of increasing in value.

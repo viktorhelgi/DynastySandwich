@@ -1,0 +1,111 @@
+15.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | plot_history() finished | >> | Job has ended |
+16.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | plot_history() finished | >> | Job has ended |
+17.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+18.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+19.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+19.10.2021	| Job has started | >> | Job has ended |
+20.10.2021	| Job has started | >> | Job has ended |
+21.10.2021	| Job has started | >> | Job has ended |
+22.10.2021	| Job has started | >> | Job has ended |
+22.10.2021	| Job has started | >> | Job has ended |
+22.10.2021	| Job has started | >> | Job has ended |
+23.10.2021	| Job has started | >> | Job has ended |
+24.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+24.10.2021	| Job has started | >> | update_keeptradecut() finished | >> 
+24.10.2021	| Job has started | >> 
+24.10.2021	| Job has started | >> | update_keeptradecut() finished | >> 
+24.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+24.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+24.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+25.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+25.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+26.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+26.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+27.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+28.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+28.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+29.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+30.10.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+30.10.2021	| Job has started | >> | Job has ended |
+31.10.2021	| Job has started | >> | Job has ended |
+31.10.2021	| Job has started | >> | Job has ended |
+1.11.2021	| Job has started | >> | Job has ended |
+1.11.2021	| Job has started | >> | Job has ended |
+2.11.2021	| Job has started | >> | Job has ended |
+2.11.2021	| Job has started | >> | Job has ended |
+3.11.2021	| Job has started | >> | Job has ended |
+3.11.2021	| Job has started | >> 
+3.11.2021	| Job has started | >> | update_keeptradecut() finished | >> 
+3.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+3.11.2021	| Job has started | >> 
+3.11.2021	| Job has started | >> 
+3.11.2021	| Job has started | >> | Job has ended |
+3.11.2021	| Job has started | >> 
+3.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+3.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+3.11.2021	| Job has started | >> 
+4.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+4.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+4.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+4.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+6.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+6.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+7.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+7.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+7.11.2021	| Job has started | >> 
+8.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+8.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+9.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+9.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+10.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+11.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+11.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+11.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+12.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+12.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+13.11.2021	| Job has started | >> 
+13.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+14.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+14.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+15.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+15.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+15.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+16.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+16.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+17.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+17.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+18.11.2021	| Job has started | >> 
+18.11.2021	| Job has started | >> 
+18.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+18.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+19.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+19.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+20.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+21.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+22.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+22.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+23.11.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
+24.11.2021	| Job has started | >> 
+25.11.2021	| Job has started | >> 
+25.11.2021	| Job has started | >> 
+26.11.2021	| Job has started | >> 
+28.11.2021	| Job has started | >> 
+29.11.2021	| Job has started | >> 
+29.11.2021	| Job has started | >> 
+29.11.2021	| Job has started | >> 
+30.11.2021	| Job has started | >> 
+1.12.2021	| Job has started | >> 
+2.12.2021	| Job has started | >> 
+2.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> 
+3.12.2021	| Job has started | >> | update_keeptradecut() finished | >> | sleeper_calculate() finished | >> | Job has ended |
