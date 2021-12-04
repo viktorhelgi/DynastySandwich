@@ -1,5 +1,7 @@
 # DynastySandwich
 
+## Team values as a function of time
+
 <p align="center">
   <img src="./Dynasty_Sandwich/plots/Since Start of Measurements.png" width="40%" title="hover text">
   <img src="./Dynasty_Sandwich/plots/Since Start of Measurements (change).png" width="40%" title="hover text">
