@@ -2,6 +2,20 @@
 #import HelperFunctions.terminal_traceback
 #from Dynasty_Sandwich.Helpers.get_file_name import get_file_name
 #from Dynasty_Sandwich.Helpers.get_data import get_data
+if __name__ == '__main__':
+    """
+    Used to change root directory, if the module is run as a script.
+    """
+    import sys, os, inspect
+    current_dir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+    if current_dir in sys.path:
+        #currentdir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+        #parentdir = os.path.dirname(currentdir)
+        #sys.path.insert(0, parentdir) 
+        sys.path.insert(0, "C:\\Users\\Lenovo\\Documents\\VSCode_Tests\\NFL")
+
+
+
 from HelperFunctions.code_guide import PointToFunction
 
 from Dynasty_Sandwich.Helpers.get_date import get_date
@@ -242,3 +256,6 @@ def plot_history():
     obj_season.plot_team_values(plot_name = 'Season 2021', start_date = '1.9.2021', plot_changes_also = True)
     
 
+
+if __name__ == '__main__':
+    plot_history()
